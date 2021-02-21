@@ -8,3 +8,4 @@ The EHDEN Service Desk will contain a self-service portal (https://servicedesk.e
 
 The purpose of this repository is to define the scope and implementation details of all the services supported by the Service Desk. It will define the process steps for each of services, including the roles of its operators. For this it is important define the minimal viable product that contains at least 80% of the services we want to include from the start and then grow and refine this during the upcoming period.
 
+This tool is part of the [EHDEN Roadmap](https://github.com/EHDEN/ehden-roadmap)
